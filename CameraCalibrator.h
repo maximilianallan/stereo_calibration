@@ -1,6 +1,3 @@
-// -*- c++ -*-
-// Copyright 2008 Isis Innovation Limited
-
 #ifndef __CAMERACALIBRATOR_H
 #define __CAMERACALIBRATOR_H
 #include "CalibImage.h"

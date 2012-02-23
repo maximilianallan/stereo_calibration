@@ -1,4 +1,3 @@
-// Copyright 2008 Isis Innovation Limited
 /* This class is used by CalibImage to fit a "corner patch" in the function MakeFromImage 
 declares an static image of floats called mimSharedSourceTemplate
    the images mimTemplate,mimGradients,mimAngleJacs are resized 

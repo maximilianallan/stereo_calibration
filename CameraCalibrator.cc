@@ -1,4 +1,3 @@
-// Copyright 2008 Isis Innovation Limited
 #include "OpenGL.h"
 #include <gvars3/instances.h>
 #include "CameraCalibrator.h"
@@ -8,13 +7,9 @@
 #include <fstream>
 #include <stdlib.h>
 #include <string.h>
-//#include <cstring>
 #include <stdio.h>
-//#include "HomographyInit.h"
-
 #include "modifiedOpenCV.h"
 #include "SmallMatrixOpts.h"
-//#include <utility>
 #include <TooN/se3.h>
 #include <TooN/SVD.h>
 #include <TooN/SymEigen.h>

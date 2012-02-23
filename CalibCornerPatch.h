@@ -1,6 +1,3 @@
-// -*- c++ -*-
-// Copyright 2008 Isis Innovation Limited
-
 #ifndef __CALIB_CORNER_PATCH_H
 #define __CALIB_CORNER_PATCH_H
 #include <TooN/TooN.h>
